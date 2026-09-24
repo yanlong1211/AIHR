@@ -15,8 +15,6 @@ Copy-Item .env.example .env.local
 node server.js
 ```
 
-请勿上传 `.env.local`、真实简历或包含个人信息的演示数据；这些文件已通过 `.gitignore` 排除。
-
 ## Demo 运行
 
 无需安装依赖。在当前目录运行：
