@@ -1,0 +1,7 @@
+.hireflow-data.json
+.env.local
+.env.*
+!.env.example
+*.pdf
+*.log
+node_modules/
